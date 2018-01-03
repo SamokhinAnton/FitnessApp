@@ -9,27 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FitnessApp.Core", "FitnessA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FitnessApp.DataModels", "FitnessApp.DataModels\FitnessApp.DataModels.csproj", "{C5EE3AB5-AE83-4F45-99F3-35B49D34F099}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FitnessApp.View", "FitnessApp.View\", "{79A0240C-D923-4F62-A2A8-C55B3D1558CD}"
-	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_10291"
-		Debug.AspNetCompiler.PhysicalPath = "FitnessApp.View\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10291\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_10291"
-		Release.AspNetCompiler.PhysicalPath = "FitnessApp.View\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10291\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "10291"
-		DefaultWebSiteLanguage = "Visual C#"
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,10 +27,6 @@ Global
 		{C5EE3AB5-AE83-4F45-99F3-35B49D34F099}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5EE3AB5-AE83-4F45-99F3-35B49D34F099}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5EE3AB5-AE83-4F45-99F3-35B49D34F099}.Release|Any CPU.Build.0 = Release|Any CPU
-		{79A0240C-D923-4F62-A2A8-C55B3D1558CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79A0240C-D923-4F62-A2A8-C55B3D1558CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79A0240C-D923-4F62-A2A8-C55B3D1558CD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{79A0240C-D923-4F62-A2A8-C55B3D1558CD}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
